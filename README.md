@@ -1,8 +1,8 @@
 # Poojalohar
 # 👋 Hi, I'm Pooja Lohar!
 
-🎓 BBA Graduate | 💼 Aspiring Business Analyst
-📍 Based in Mumbai, India
+ BBA Graduate |  Aspiring Business Analyst
+ Based in Mumbai, India
 🔍 Passionate about data analysis, dashboards, and transforming insights into action.
 
 ---
@@ -15,7 +15,7 @@
 
 ---
 
-## 📂 Best Projects
+##  Best Projects
 
 * 🔹 [Amazon Sales Data Analysis (SQL)](https://github.com/Poojaohar/Amazon-Data-Analysis-using-SQL)
   Analyzed regional customer patterns and optimized sales insights.
@@ -28,7 +28,7 @@
 
 ---
 
-## 🏅 Certifications & Achievements
+##  Certifications & Achievements
 
 * ✅ Google Data Analytics Certificate (Coursera)
 * ✅ Power BI Essentials (LinkedIn Learning)
