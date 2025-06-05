@@ -37,8 +37,7 @@
 ---
 
 ## 📄 Resume
-
-📌 [Click here to view my resume](https://drive.google.com/file/d/1RGtGooCZIIVr996iC-yXQgqdSQceCfXh/view?usp=drive_link)
+https://drive.google.com/file/d/1aVr7uop_OymwTFH4WBNnoOI5gwGidtdU/view?usp=drive_link
 
 ---
 
