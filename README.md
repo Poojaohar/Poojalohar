@@ -3,7 +3,7 @@
 
  BBA Graduate |  Aspiring Business Analyst
  Based in Mumbai, India
-🔍 Passionate about data analysis, dashboards, and transforming insights into action.
+Passionate about data analysis, dashboards, and transforming insights into action.
 
 ---
 
