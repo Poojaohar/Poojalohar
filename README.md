@@ -37,7 +37,7 @@ Passionate about data analysis, dashboards, and transforming insights into actio
 ---
 
 ## 📄 Resume
-https://drive.google.com/file/d/1NtiBOldYlzt0UfQ9tCBSqZlkaWPyAkVl/view?usp=drive_link
+https://drive.google.com/file/d/1K3kf8WT96BZwvBgmegbXBwUTc2Tjju_w/view?usp=drive_link
 
 ---
 
